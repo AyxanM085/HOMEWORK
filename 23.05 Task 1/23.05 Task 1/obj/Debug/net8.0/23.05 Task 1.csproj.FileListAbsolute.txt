@@ -1,0 +1,14 @@
+C:\Users\ayxan\source\repos\23.05 Task 1\23.05 Task 1\bin\Debug\net8.0\23.05 Task 1.exe
+C:\Users\ayxan\source\repos\23.05 Task 1\23.05 Task 1\bin\Debug\net8.0\23.05 Task 1.deps.json
+C:\Users\ayxan\source\repos\23.05 Task 1\23.05 Task 1\bin\Debug\net8.0\23.05 Task 1.runtimeconfig.json
+C:\Users\ayxan\source\repos\23.05 Task 1\23.05 Task 1\bin\Debug\net8.0\23.05 Task 1.dll
+C:\Users\ayxan\source\repos\23.05 Task 1\23.05 Task 1\bin\Debug\net8.0\23.05 Task 1.pdb
+C:\Users\ayxan\source\repos\23.05 Task 1\23.05 Task 1\obj\Debug\net8.0\23.05 Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayxan\source\repos\23.05 Task 1\23.05 Task 1\obj\Debug\net8.0\23.05 Task 1.AssemblyInfoInputs.cache
+C:\Users\ayxan\source\repos\23.05 Task 1\23.05 Task 1\obj\Debug\net8.0\23.05 Task 1.AssemblyInfo.cs
+C:\Users\ayxan\source\repos\23.05 Task 1\23.05 Task 1\obj\Debug\net8.0\23.05 Task 1.csproj.CoreCompileInputs.cache
+C:\Users\ayxan\source\repos\23.05 Task 1\23.05 Task 1\obj\Debug\net8.0\23.05 Task 1.dll
+C:\Users\ayxan\source\repos\23.05 Task 1\23.05 Task 1\obj\Debug\net8.0\refint\23.05 Task 1.dll
+C:\Users\ayxan\source\repos\23.05 Task 1\23.05 Task 1\obj\Debug\net8.0\23.05 Task 1.pdb
+C:\Users\ayxan\source\repos\23.05 Task 1\23.05 Task 1\obj\Debug\net8.0\23.05 Task 1.genruntimeconfig.cache
+C:\Users\ayxan\source\repos\23.05 Task 1\23.05 Task 1\obj\Debug\net8.0\ref\23.05 Task 1.dll
