@@ -1,0 +1,15 @@
+C:\Users\aliash@code.edu.az\source\repos\Task 1 06.11.2024\Task 1 06.11.2024\bin\Debug\net7.0\Task 1 06.11.2024.exe
+C:\Users\aliash@code.edu.az\source\repos\Task 1 06.11.2024\Task 1 06.11.2024\bin\Debug\net7.0\Task 1 06.11.2024.deps.json
+C:\Users\aliash@code.edu.az\source\repos\Task 1 06.11.2024\Task 1 06.11.2024\bin\Debug\net7.0\Task 1 06.11.2024.runtimeconfig.json
+C:\Users\aliash@code.edu.az\source\repos\Task 1 06.11.2024\Task 1 06.11.2024\bin\Debug\net7.0\Task 1 06.11.2024.dll
+C:\Users\aliash@code.edu.az\source\repos\Task 1 06.11.2024\Task 1 06.11.2024\bin\Debug\net7.0\Task 1 06.11.2024.pdb
+C:\Users\aliash@code.edu.az\source\repos\Task 1 06.11.2024\Task 1 06.11.2024\obj\Debug\net7.0\Task 1 06.11.2024.csproj.AssemblyReference.cache
+C:\Users\aliash@code.edu.az\source\repos\Task 1 06.11.2024\Task 1 06.11.2024\obj\Debug\net7.0\Task 1 06.11.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliash@code.edu.az\source\repos\Task 1 06.11.2024\Task 1 06.11.2024\obj\Debug\net7.0\Task 1 06.11.2024.AssemblyInfoInputs.cache
+C:\Users\aliash@code.edu.az\source\repos\Task 1 06.11.2024\Task 1 06.11.2024\obj\Debug\net7.0\Task 1 06.11.2024.AssemblyInfo.cs
+C:\Users\aliash@code.edu.az\source\repos\Task 1 06.11.2024\Task 1 06.11.2024\obj\Debug\net7.0\Task 1 06.11.2024.csproj.CoreCompileInputs.cache
+C:\Users\aliash@code.edu.az\source\repos\Task 1 06.11.2024\Task 1 06.11.2024\obj\Debug\net7.0\Task 1 06.11.2024.dll
+C:\Users\aliash@code.edu.az\source\repos\Task 1 06.11.2024\Task 1 06.11.2024\obj\Debug\net7.0\refint\Task 1 06.11.2024.dll
+C:\Users\aliash@code.edu.az\source\repos\Task 1 06.11.2024\Task 1 06.11.2024\obj\Debug\net7.0\Task 1 06.11.2024.pdb
+C:\Users\aliash@code.edu.az\source\repos\Task 1 06.11.2024\Task 1 06.11.2024\obj\Debug\net7.0\Task 1 06.11.2024.genruntimeconfig.cache
+C:\Users\aliash@code.edu.az\source\repos\Task 1 06.11.2024\Task 1 06.11.2024\obj\Debug\net7.0\ref\Task 1 06.11.2024.dll
