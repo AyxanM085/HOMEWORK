@@ -1,38 +1,43 @@
+Create Database School
+Use School
 
-Create DataBase DepartamentDB
-Use DepartamentDB
-
-CREATE TABLE Departaments (
-    Id INT IDENTITY(1,1) PRIMARY KEY,
-    Name NVARCHAR(150) NOT NULL,
-    MaxEmployeeCount INT NOT NULL CHECK (MaxEmployeeCount >= 10 AND MaxEmployeeCount <= 50)
+CREATE TABLE Groups (
+    Id INT PRIMARY KEY,
+    Name NVARCHAR(50)
 )
 
-CREATE TABLE Positions (
-    Id INT IDENTITY(1,1) PRIMARY KEY,
-    Name NVARCHAR(50) NOT NULL
+CREATE TABLE Teachers (
+    Id INT PRIMARY KEY,
+    Name NVARCHAR(50),
+    FullName NVARCHAR(100),
+    Salary DECIMAL(10, 2)
 )
-
-CREATE TABLE Employees (
-    Id INT IDENTITY(1,1) PRIMARY KEY,
-    Name NVARCHAR(60) DEFAULT 'Employee Name' NOT NULL,
-    Surname NVARCHAR(70) DEFAULT 'Employee Surname' NULL,
-    Salary DECIMAL(18,2) CHECK (Salary >= 500 AND Salary <= 12000)
+CREATE TABLE Students (
+    Id INT PRIMARY KEY,
+    FullName NVARCHAR(100),
+    TeacherId INT FOREIGN KEY REFERENCES Teachers(Id)
 )
+CREATE TABLE Grade (
+    Id INT PRIMARY KEY,
+    StudentFullName NVARCHAR(100),
+    StudentGroup NVARCHAR(50),
+    StudentTeacherFullName NVARCHAR(100),
+    Grade INT
+)
+INSERT INTO Groups (Id, Name)
+VALUES (1, 'Group A'),
+       (2, 'Group B')
 
-Select * From Departaments
-Select * From Positions
-Select * From Employees
+	   INSERT INTO Teachers (Id, Name, FullName, Salary)
+VALUES (1, 'Teacher 1', 'akif', 5000.00),
+       (2, 'Teacher 2', 'cemile', 4500.00)
+	 
+	 INSERT INTO Grade (Id, StudentFullName, StudentGroup, StudentTeacherFullName, Grade)
+VALUES (1, 'Ali', 'Group A', 'arif', 85),
+       (2, 'mosu', 'Group B', 'akif', 78),
+       (3, 'Cavid', 'Group A', 'cemile', 92);
 
---Insert Into Departaments
---Values
---(1, 'osman ildirmov', 55),
---(2, 'mayami qusyuvasi', 149)
+	   SELECT g.Id, g.StudentFullName AS StudentFullname, g.StudentGroup AS StudentGroup, g.StudentTeacherFullName AS StudentTeacherFullname, g.Grade
+FROM Grade g
+ORDER BY g.Id
 
---Insert Into Positions
---Values
---(3, 'ziya mkdir', 534)
-
---Insert Into Employees
---Values
---(4, 'Abbsas', '210 kuza', 220)
