@@ -1,0 +1,5 @@
+/Users/ayxanmemmedxanli/Projects/From HoME wORK/From HoME wORK/obj/Debug/net7.0/From HoME wORK.csproj.AssemblyReference.cache
+/Users/ayxanmemmedxanli/Projects/From HoME wORK/From HoME wORK/obj/Debug/net7.0/From HoME wORK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayxanmemmedxanli/Projects/From HoME wORK/From HoME wORK/obj/Debug/net7.0/From HoME wORK.AssemblyInfoInputs.cache
+/Users/ayxanmemmedxanli/Projects/From HoME wORK/From HoME wORK/obj/Debug/net7.0/From HoME wORK.AssemblyInfo.cs
+/Users/ayxanmemmedxanli/Projects/From HoME wORK/From HoME wORK/obj/Debug/net7.0/From HoME wORK.csproj.CoreCompileInputs.cache
